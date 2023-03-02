@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arek</h1>
-<h3 align="center">For last couple of  months I've been learning how to be FrontEnd Developer.</h3>
+<h3 align="center">For last couple months I've been learning how to be FrontEnd Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arcadius94&label=Profile%20views&color=0e75b6&style=flat" alt="arcadius94" /> </p>
 
 
-- 🌱 I’m currently learning **TypeScrit React Node JS**
+- 🌱 I’m currently learning **TypeScrit**
 
 
 <h3 align="left">Languages and Tools:</h3>
